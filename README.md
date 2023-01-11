@@ -3,20 +3,20 @@ Projeto feito como uma das atividades do Bootcamp de Dados MIA (Mulheres em Inte
 
 Os dados utilizados são disponibilizados pela Agência Nacional do Cinema (ANCINE). Este conta com as seguintes colunas:
 
-TITULO_ORIGINAL: String – Nome original do filme
-TITULO_BRASILEIRO: String – Nome do filme no Brasil
-GENERO: String Genero do Filme, podendo ser Ficção, Animação, etc.
-PAIS_ORIGEM: String País de Origem da produtora do filme
-CPB_ROE: String Código do Filme
-COPIAS: Numero inteiro -  Quantas cópias foram distribuidas
-SALAS: Numero inteiro – Quantas salas de cinema passaram o filme
-DT_INICIO_EXIBICAO: Data – Data de estréia do filme no Brasil
-DT_FIM_EXIBICAO: Data – Data da ultima sessão do filme no Brasil
-PUBLICO: Numero inteiro Quantidade de expectadores
-RENDA: Numero com decimais: Valores arrecadados com bilheteria
-RAZAO_SOCIAL_DISTRIBUIDORA: String – Nome da distribuidora
-REGISTRO_DISTRIBUIDORA: Numero inteiro – Numero do registro na Ancine
-CNPJ_DISTRIBUIDORA: String – CNPJ da distribuidora
+TITULO_ORIGINAL: String – Nome original do filme 
+TITULO_BRASILEIRO: String – Nome do filme no Brasil 
+GENERO: String Genero do Filme, podendo ser Ficção, Animação, etc. 
+PAIS_ORIGEM: String País de Origem da produtora do filme 
+CPB_ROE: String Código do Filme 
+COPIAS: Numero inteiro -  Quantas cópias foram distribuidas 
+SALAS: Numero inteiro – Quantas salas de cinema passaram o filme 
+DT_INICIO_EXIBICAO: Data – Data de estréia do filme no Brasil 
+DT_FIM_EXIBICAO: Data – Data da ultima sessão do filme no Brasil 
+PUBLICO: Numero inteiro Quantidade de expectadores 
+RENDA: Numero com decimais: Valores arrecadados com bilheteria 
+RAZAO_SOCIAL_DISTRIBUIDORA: String – Nome da distribuidora 
+REGISTRO_DISTRIBUIDORA: Numero inteiro – Numero do registro na Ancine 
+CNPJ_DISTRIBUIDORA: String – CNPJ da distribuidora 
 ANO_CINEMATOGRAFICO: Numero – Ano da produção
 
 
